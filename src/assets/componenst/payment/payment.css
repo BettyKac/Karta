@@ -1,0 +1,15 @@
+.payment .input-fields {
+  display: flex;
+  margin: 5px;
+  justify-content: center;
+}
+
+.payment .input-fields input {
+  
+
+  margin: 10px 2px 10px 2px;
+}
+
+.header-input-fields {
+  color: rgb(40, 101, 139);
+}

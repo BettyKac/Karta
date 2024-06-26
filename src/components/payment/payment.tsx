@@ -70,7 +70,7 @@ export const Payment: React.FC = () => {
                 maxLength={4}
                 ref={ref}
                 onChange={(e) => handleInput(e, index)}
-                onKeyPress={handleKeyPress}
+                onKeyDown={handleKeyPress}
                 onPaste={handlePaste}
               />
             ))}
